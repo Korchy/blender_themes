@@ -16,6 +16,13 @@ by Yegor Smirnov, Nikita Akimov
 by Yegor Smirnov
 #
 
+**Sky**
+
+<a href = "https://b3d.interplanety.org/wp-content/upload_content/2019/04/00-7.jpg"><img src = "https://b3d.interplanety.org/wp-content/upload_content/2019/04/00-7-400x300.jpg"></a>
+
+by Yuriy Tudgin
+#
+
 **Installation**
 
 * download theme XML preset
