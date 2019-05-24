@@ -23,6 +23,13 @@ by Yegor Smirnov
 by Yuriy Tudgin
 #
 
+**Old Concept**
+
+<a href = "https://b3d.interplanety.org/wp-content/upload_content/2019/05/01-1.jpg"><img src = "https://b3d.interplanety.org/wp-content/upload_content/2019/05/01-1-400x299.jpg"></a>
+
+by Airat Mukhameddinov
+#
+
 **Installation**
 
 * download theme XML preset
