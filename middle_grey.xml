@@ -8,6 +8,7 @@
         icon_saturation="1"
         widget_emboss="#ffffff03"
         editor_outline="#303030"
+        widget_text_cursor="#3399e6"
         axis_x="#e52d2d"
         axis_y="#2de52d"
         axis_z="#2d2de5"
@@ -22,6 +23,7 @@
         icon_object_data="#c1ffc1ff"
         icon_modifier="#cee3ffff"
         icon_shading="#f5d2bcff"
+        icon_folder="#e3c16eff"
         icon_border_intensity="0"
         >
         <wcol_regular>
@@ -376,6 +378,8 @@
         face_dot="#00beb0"
         facedot_size="3"
         freestyle_face_mark="#7fff7f33"
+        face_back="#ff0000b3"
+        face_front="#0000ffb3"
         nurb_uline="#89908a"
         nurb_vline="#fff8f4"
         nurb_sel_uline="#2400ff"
@@ -415,7 +419,7 @@
         <space>
           <ThemeSpaceGradient
             title="#000000"
-            text="#cccccc"
+            text="#ffffff"
             text_hi="#cccccc"
             header="#47474700"
             header_text="#d9d9d9"
@@ -564,6 +568,8 @@
       <ThemeNLAEditor
         grid="#525252"
         view_sliders="#969696"
+        dopesheet_channel="#5a85b2"
+        nla_track="#424242"
         active_action="#cc701a66"
         active_action_unset="#9987614d"
         preview_range="#a14d0066"
@@ -708,6 +714,8 @@
         face_dot="#ff8500"
         facedot_size="2"
         freestyle_face_mark="#7fff7f33"
+        face_back="#00000000"
+        face_front="#00000000"
         editmesh_active="#ffffff80"
         wire_edit="#5c5c5c"
         edge_select="#ff8500"
@@ -789,6 +797,7 @@
         preview_back="#474747"
         metadatabg="#333333"
         metadatatext="#b8b8b8"
+        preview_range="#a14d0066"
         >
         <space>
           <ThemeSpaceGeneric
@@ -858,6 +867,7 @@
     </properties>
     <text_editor>
       <ThemeTextEditor
+        line_numbers="#d0d0d0"
         line_numbers_background="#2e2e2e"
         selected_text="#606060"
         cursor="#b8b8b8"
@@ -1142,6 +1152,8 @@
         locked_marker="#7f7f7f"
         path_before="#ff0000"
         path_after="#0000ff"
+        path_keyframe_before="#ffc4c4"
+        path_keyframe_after="#c4c4ff"
         frame_current="#4c9933"
         time_scrub_background="#292929e6"
         strips="#0c0a0a"
