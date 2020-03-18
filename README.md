@@ -35,6 +35,12 @@ by Airat Mukhameddinov
 <a href = "https://b3d.interplanety.org/wp-content/upload_content/2019/09/01-8.jpg"><img src = "https://b3d.interplanety.org/wp-content/upload_content/2019/09/01-8-400x389.jpg"></a>
 
 by Yuriy Tudgin
+
+**White 8**
+
+<a href = "https://b3d.interplanety.org/wp-content/upload_content/2020/03/01-2.jpg"><img src = "https://b3d.interplanety.org/wp-content/upload_content/2020/03/01-2-400x298.jpg"></a>
+
+by Michail Soluyanov
 #
 
 **Installation**
