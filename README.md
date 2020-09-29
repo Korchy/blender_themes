@@ -1,4 +1,4 @@
-# Themes presets for Blender 2.8
+# Themes presets for Blender 3D
 
 **Middle Grey**
 
