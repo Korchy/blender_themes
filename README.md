@@ -47,7 +47,7 @@ by Michail Soluyanov
 **Installation**
 
 * download theme XML preset
-* run Blender 2.8
+* run Blender
 * open the "Preferences" window
 * switch to the "Themes" section
 * press the "Install" button
