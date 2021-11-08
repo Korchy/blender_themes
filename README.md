@@ -44,6 +44,13 @@ by Yuriy Tudgin
 by Michail Soluyanov
 #
 
+**Day**
+
+<a href = "https://b3d.interplanety.org/wp-content/upload_content/2021/11/day_theme-560x292.jpg"><img src = "https://b3d.interplanety.org/wp-content/upload_content/2021/11/day_theme-560x292.jpg"></a>
+
+by Yuriy Tudgin
+#
+
 **Installation**
 
 * download theme XML preset
