@@ -51,11 +51,26 @@ by Michail Soluyanov
 by Yuriy Tudgin
 #
 
+**Night**
+
+<a href = "https://b3d.interplanety.org/wp-content/upload_content/2023/08/night.jpg"><img src = "https://b3d.interplanety.org/wp-content/upload_content/2023/08/night-560x279.jpg"></a>
+
+by Yuriy Tudgin
+#
+
+**MyModo**
+
+<a href = "https://b3d.interplanety.org/wp-content/upload_content/2023/08/my_modo.jpg"><img src = "https://b3d.interplanety.org/wp-content/upload_content/2023/08/my_modo-560x279.jpg"></a>
+
+by Yuriy Tudgin
+#
+
 **Blender_27x-300**
 
 <a href = "https://b3d.interplanety.org/wp-content/upload_content/2022/11/Blender_27x-300.jpg"><img src = "https://b3d.interplanety.org/wp-content/upload_content/2022/11/Blender_27x-300-560x280.jpg"></a>
 
 by Alessio Monti
+
 #
 
 **Installation**
